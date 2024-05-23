@@ -8,7 +8,7 @@ export const MenuData = [
       { name: "Watermelon", price: "6 SR" },
       { name: "Mango", price: "9 SR" },
       { name: "Orange", price: "6 SR" },
-      { name: "Apple", price: "6 SR" },
+      { name: "Apple", price: "9 SR" },
       { name: "Cocktail", price: "9 SR" },
       { name: "Strawberry", price: "9 SR" },
       { name: "Lemon Mint", price: "6 SR" },
