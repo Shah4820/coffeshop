@@ -130,9 +130,9 @@ export const MenuData = [
     name: "Biscuit's",
     items: [
       { name: "Jesr biscuits", price: "1 SR" },
-      { name: "Big biscuits", price: "3 SR" },
-      { name: "Fine biscuit", price: "3 SR" },
-      { name: "Raising Rool", price: "3 SR" },
+      { name: "Jesr Big biscuits", price: "3 SR" },
+      { name: "Jesr Fine biscuit", price: "3 SR" },
+      { name: "Jesr Raising Rool", price: "3 SR" },
     ],
   },
 ];
